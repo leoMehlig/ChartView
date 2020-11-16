@@ -2,3 +2,4 @@
 /.build
 /Packages
 /*.xcodeproj
+.swiftpm/xcode/xcuserdata/leonard.mehlig.xcuserdatad/xcschemes/xcschememanagement.plist
